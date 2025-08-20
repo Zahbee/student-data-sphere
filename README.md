@@ -77,7 +77,7 @@ Navigate to [http://127.0.0.1:5000](http://127.0.0.1:5000) to view the app.
 
 ## 👩‍💻 Author
 
-**Zahbee** – IT Engineering Student | Python & Flask Enthusiast
+**Zahbee** – IT Engineering Student | Python Enthusiast
 
 [LinkedIn]((https://www.linkedin.com/in/zahbee-shahid-5b9108253/)) | [GitHub](https://github.com/Zahbee)
 
